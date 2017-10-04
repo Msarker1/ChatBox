@@ -1,0 +1,17 @@
+.wrapper{
+    border:solid black;
+    float: right;
+}
+.messages{
+	border-radius: 10px;
+	background-color: black;
+}
+
+ul {
+    list-style-type:none;
+    padding-left:0;
+    background-color: black;
+}​
+body{
+	background-color: yellow;
+}
